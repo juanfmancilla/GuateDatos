@@ -41,3 +41,5 @@ python3 manage.py runserver
 
 - acceder al portal a traves del localhost y el puerto seleccionado
 localhost:9000
+
+Referencia: https://djangocentral.com/building-a-blog-application-with-django/
